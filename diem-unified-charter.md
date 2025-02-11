@@ -38,7 +38,7 @@ Under the current charter, the working group is limited to the presentation / di
 Designs for QRCodes, NFC, Bluetooth, and other discovery mechanisms are currently out of scope.
 
 The working group will first describe a high level informational architecture and data model.
-After the architecture and data model are published as an information RFC, the working group will specify a single concrete serialization and a discovery mechanism based on the DNS.
+After the architecture and data model are published as an informational RFC, the working group will specify a single concrete serialization and a discovery mechanism based on the DNS.
 The working group will coordinate with relevant working groups within the IETF and other SDOs to ensure that existing standards are leveraged appropriately.
 The working group will not produce any standard track generic serialization formats.
 The working group will not produce any standard track extensions to the DNS. 
