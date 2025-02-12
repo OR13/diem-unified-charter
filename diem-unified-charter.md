@@ -21,7 +21,7 @@ There is a need to sense emblems/symbols through digital communication channels,
 This need arises due to the increasing relevance and impact of cyber operations on human rights, commerce, and security.
 An NFPA 704 Symbol can communicate flammability, health, reactivity and special notices and extensions.
 A digital emblem provides a mechanism for communicating the attributes or status of an asset that bears the emblem.
-Digital emblems extend the range of identifying marks from the physical (visual and tactile) to the digital realm.
+Digital emblems extend the range of identifying marks from the physical realm (visual and tactile) to the digital realm.
 The presence of a digital emblem represents a new signal available to cyber operators, one which can be combined with existing operational procedures to reduce uncertainty and improve decision making.
 
 The DIEM working group produces documents which describe the creation, presentation, validation, and interpretation of digital emblems.
