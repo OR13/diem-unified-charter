@@ -79,7 +79,7 @@ This document must be published as an informational RFC, before any proposed sta
 A proposed standard describing the first serialization format for digital emblems.
 This document may describe a mandatory to implement securing mechanism.
 If a securing mechanism is described, this document must describe at least one mandatory to implement cryptographic algorithm which is already supported by the securing mechanism.
-This document must be published as a proposed standard RFC, and must not assume any specific discovery mechanisms, or use cases.
+This document must be published as a proposed standard RFC, and must not assume any specific use cases.
 
 ### Initial Discovery Mechanism
 
