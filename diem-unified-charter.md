@@ -4,7 +4,7 @@ An emblem is a device, symbol, or figure adopted and used as an identifying mark
 In culture, emblems such as a flag, badge or coat of arms communicate group identity.
 In speech, emblems are specific nonverbal gestures or signals that have a direct verbal translation and are widely understood within a particular culture or community.
 The emblems of the International Committee of the Red Cross (ICRC)  are symbols of protection under the Geneva Conventions and are to be worn by all medical and humanitarian personnel and also displayed on their vehicles and buildings while they are in an active warzone, and all military forces operating in an active warzone must not attack entities displaying these emblems.
-ISO 7010 defines a set of emblems that can be used to identify hazards, these include the skull and crossbones for toxic material, the ionizing radiation symbol and the biological hazard symbol.
+ISO 7010 defines a set of emblems that can be used to identify hazards. These include the skull and crossbones for toxic material, the ionizing radiation symbol, and the biological hazard symbol.
 The white cane is an international emblem for visually impaired pedestrians.
 The international symbol for deafness is a white ear with a strip through it on a blue background.
 A tactile symbol is used to communicate with vision impaired individuals, for example, a trapezoid with bars indicating numbers, or a heart with textures to indicate emotions.
