@@ -24,7 +24,7 @@ A digital emblem provides a mechanism for communicating the attributes or status
 Digital emblems extend the range of identifying marks from the physical (visual and tactile) to the digital realm.
 The presence of a digital emblem represents a new signal available to cyber operators, one which can be combined with existing operational procedures to reduce uncertainty and improve decision making.
 
-The DIEM working group produces documents which describe the creation, presentation, validation and interpretation of digital emblems.
+The DIEM working group produces documents which describe the creation, presentation, validation, and interpretation of digital emblems.
 
 ## Initial Scope
 
