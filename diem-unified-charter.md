@@ -12,7 +12,7 @@ For example, a trapezoid with bars indicating numbers, or a heart with textures 
 These emblems/symbols require a sense of sight, or touch to become known to the receiver.
 "To bear an emblem" means to use or adopt a symbol, figure, or device as an identifying mark. 
 To "verify an emblem" means to confirm the authenticity or legitimacy of a particular symbol or design, often by checking its details against a known standard or reference point.
-Emblems may be observed by verifiers without the knowledge of the bearer displaying the emblem, or may be presented to a specific verifier upon request.
+Emblems may be observed by verifiers without the knowledge of the bearer displaying the emblem, or may be presented by the bearer to a specific verifier upon request.
 
 To be effective, the semantics of an emblem must be well known, easily recognizable, and distinguishable from other emblems.
 
