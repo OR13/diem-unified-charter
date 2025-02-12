@@ -72,7 +72,7 @@ Although this document is listed as a deliverable, it is not required to be publ
 
 The working group will develop an informational document describing the architecture, terminology and data model of digital emblems.
 This document must not assume any specific serialization formats, securing mechanisms, discovery mechanisms, or use cases.
-This document must be published as an RFC, before any proposed standard documents can be adopted by the working group.
+This document must be published as an informational RFC, before any proposed standard documents can be adopted by the working group.
 
 ### Initial Serialization
 
