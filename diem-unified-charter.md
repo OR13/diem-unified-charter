@@ -7,8 +7,7 @@ The emblems of the International Committee of the Red Cross (ICRC)  are symbols 
 ISO 7010 defines a set of emblems that can be used to identify hazards, these include the skull and crossbones for toxic material, the ionizing radiation symbol and the biological hazard symbol.
 The white cane is an international emblem for visually impaired pedestrians.
 The international symbol for deafness is a white ear with a strip through it on a blue background.
-A tactile symbol is used to communicate with vision impaired individuals.
-For example, a trapezoid with bars indicating numbers, or a heart with textures to indicate emotions.
+A tactile symbol is used to communicate with vision impaired individuals, for example, a trapezoid with bars indicating numbers, or a heart with textures to indicate emotions.
 These emblems/symbols require a sense of sight, or touch to become known to the receiver.
 "To bear an emblem" means to use or adopt a symbol, figure, or device as an identifying mark. 
 To "verify an emblem" means to confirm the authenticity or legitimacy of a particular symbol or design, often by checking its details against a known standard or reference point.
